@@ -1,12 +1,12 @@
-### Hi there, I'm Daniel ! 👋
-💭 I am focused on C++ and 3D Graphics APIs.
+# Hi there, I'm Daniel ! 👋
+> 🔍 Focused on C++ and 3D Graphics APIs.
 
-🔨 **I enjoy building:**
+## 🔨 I enjoy building
   * Helpful tools for devs and designers.
   * Eye-candy and interactive experiences.
 
-✍ **Sometimes I write some blog posts:**
-  * [Dealing with non-copyable objects - (C++ Tutorial)](https://dev.to/cambalamas/the-day-i-forbade-copy-semantics-to-an-object-nkl)
+## ✍ I have written some things
+* [Dealing with non-copyable objects - (C++ Tutorial)](https://dev.to/cambalamas/the-day-i-forbade-copy-semantics-to-an-object-nkl)
 
 <!--
 **cambalamas/cambalamas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
