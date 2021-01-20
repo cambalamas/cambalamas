@@ -1,4 +1,8 @@
 ### Hi there 👋
+My name is Daniel, I'm a software engineer, who enjoys building interactive and visual experiences and tools, specialized in C++ and 3D technologies.
+
+## Articles @ DEV.TO
+* [The day I forbade copy-semantics to an object](https://dev.to/cambalamas/the-day-i-forbade-copy-semantics-to-an-object-nkl)
 
 <!--
 **cambalamas/cambalamas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
